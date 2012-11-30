@@ -1,0 +1,669 @@
+**** REGISTO INICIADO EM Thu Nov 29 22:15:36 2012
+
+Nov 29 22:15:52 <filipeximenes>	e ai? vamos fechar esse ponto?
+Nov 29 22:16:08 <_renatooliveira>	vamos
+Nov 29 22:16:12 <_renatooliveira>	ficar com recife mesmo?
+Nov 29 22:16:12 <fernandogrd>	fight
+Nov 29 22:16:23 <fernandogrd>	um ponto
+Nov 29 22:16:54 <fernandogrd>	q felipe falou, é que recife a gente tem mais controle, como é o primeiro, maior possibilidade de dar certo e tal
+Nov 29 22:16:55 <fernandogrd>	e olha que..
+Nov 29 22:17:02 <fernandogrd>	mesmo assim é complicado
+Nov 29 22:17:02 <amaral>	eu voto em recife, mas gostaria de ouvir o pessoal de fortaleza também
+Nov 29 22:17:10 <fernandogrd>	vocês devem saber como foi tenso o XX
+Nov 29 22:17:12 <_renatooliveira>	é
+Nov 29 22:17:14 <_renatooliveira>	seria legal
+Nov 29 22:17:31 <fernandogrd>	ok
+Nov 29 22:17:36 <fernandogrd>	fechamos em recife por hora
+Nov 29 22:17:52 <fernandogrd>	se o pessoal de fortaleza falar que dá pra falar lá
+Nov 29 22:17:55 <amaral>	então... pensando em minimizar os "riscos do negócio", por isso acho que Recife seria o mais indicado
+Nov 29 22:17:57 <fernandogrd>	voltamos a discussão
+Nov 29 22:18:08 <amaral>	blz, por mim tá massa
+Nov 29 22:18:13 <fernandogrd>	pois é, o ponto do rodrigo é forte
+Nov 29 22:18:15 <fernandogrd>	mas vejamos
+Nov 29 22:18:16 <fernandogrd>	segundo ponto
+Nov 29 22:18:19 <fernandogrd>	datas
+Nov 29 22:18:26 <fernandogrd>	vc tinha pensado em algo né _renatooliveira ?
+Nov 29 22:18:31 <fernandogrd>	quanto a isso
+Nov 29 22:18:32 <_renatooliveira>	po
+Nov 29 22:18:34 <_renatooliveira>	datas não
+Nov 29 22:18:37 <filipeximenes>	acho que independente de qualquer coisa, estamos engajados j
+Nov 29 22:18:42 <_renatooliveira>	tinha pensado pro dev in recife
+Nov 29 22:18:42 <filipeximenes>	já nisso
+Nov 29 22:18:49 <fernandogrd>	hum
+Nov 29 22:18:56 <_renatooliveira>	algo como fevereiro
+Nov 29 22:18:56 <fernandogrd>	achei que tinha me dito algo quanto ao mês na pythonbrasil
+Nov 29 22:19:01 <_renatooliveira>	mas pythonNordeste é outra coisa
+Nov 29 22:19:12 <fernandogrd>	bom
+Nov 29 22:19:13 <_renatooliveira>	acho que seria interessante Maio/Junho
+Nov 29 22:19:15 <fernandogrd>	tem que ser perto
+Nov 29 22:19:25 <_renatooliveira>	fora de temporada
+Nov 29 22:19:30 <_renatooliveira>	perto do carnaval impossível
+Nov 29 22:19:36 <_renatooliveira>	semana santa tbm não é legal
+Nov 29 22:19:40 <_renatooliveira>	ai acho que tipo
+Nov 29 22:19:42 <_renatooliveira>	fim de maio
+Nov 29 22:19:44 <fernandogrd>	mas algo que dê pra organizar (o que não temos muita noção de o quanto tempo vai levar)
+Nov 29 22:19:45 <_renatooliveira>	início de junho
+Nov 29 22:19:46 <_renatooliveira>	seria legal
+Nov 29 22:19:49 <amaral>	algumas considerações:
+Nov 29 22:19:56 <amaral>	evitar choque com o FISL
+Nov 29 22:20:01 <fernandogrd>	inicio de junho já é bem longe.. pensando numa pythonbrasil[10] aqui
+Nov 29 22:20:24 <filipeximenes>	é... vamos dar um tempinho extra também por que é a primeira vez.
+Nov 29 22:20:36 <amaral>	isso, filipeximenes 
+Nov 29 22:20:39 <_renatooliveira>	justamente
+Nov 29 22:20:44 <fernandogrd>	a gente tem que tomar *muito* cuidado, pra organização da pythonoNordeste não atrapalhar a organizaçao da pytonbrasil[10], ao invés de ajudar
+Nov 29 22:20:44 <_renatooliveira>	filipeximenes,
+Nov 29 22:20:46 <_renatooliveira>	falou tudo
+Nov 29 22:20:54 <_renatooliveira>	mas tipo
+Nov 29 22:20:59 <_renatooliveira>	acabou a pythonNordeste
+Nov 29 22:21:03 <_renatooliveira>	já começa a pythonBrasil 10
+Nov 29 22:21:11 <_renatooliveira>	começa a proposta no caso
+Nov 29 22:21:17 <fernandogrd>	acho tenso isso
+Nov 29 22:21:18 <_renatooliveira>	pra submeter e anunciar na 9
+Nov 29 22:21:27 <amaral>	outra: maio/junho costuma chover muito, temos que ter isso em mente pra questão de decidir local, acesso, deslocamento etc.
+Nov 29 22:21:27 <fernandogrd>	o ideal já era começar agora a pytrhonbrasil[10]
+Nov 29 22:21:37 <fernandogrd>	pessoal de brasilia começou a pythonbrasil[9]
+Nov 29 22:21:42 <fernandogrd>	e olha que eles tem know how
+Nov 29 22:21:44 <fernandogrd>	e gente
+Nov 29 22:21:54 <fernandogrd>	e apoio gigantes
+Nov 29 22:22:27 <_renatooliveira>	hm
+Nov 29 22:22:37 <_renatooliveira>	e já tem o site pronto :P
+Nov 29 22:22:51 <fernandogrd>	mais ou menos
+Nov 29 22:22:56 <fernandogrd>	eu vi uns tickets deles
+Nov 29 22:22:58 <filipeximenes>	eu acho que seria interessante reconsiderar essa questão da pythonbrasil[10] .... prefiro ir devagar e garatir o sucesso
+Nov 29 22:23:01 <fernandogrd>	tem várias coisas em relação ao site
+Nov 29 22:23:12 <fernandogrd>	o ideal mesmo
+Nov 29 22:23:24 <_renatooliveira>	visse tickets onde fernando?
+Nov 29 22:23:27 <_renatooliveira>	manda o link ai
+Nov 29 22:23:46 <fernandogrd>	deixa eu ver aqui
+Nov 29 22:23:49 <amaral>	mandaram pra pythonbrasil um dia desses, acho
+Nov 29 22:24:19 <fernandogrd>	eu vi na lista da associação
+Nov 29 22:24:27 <amaral>	isso, fernandogrd 
+Nov 29 22:24:42 <amaral>	alguém abriu um ticket pra lembrar de contactar a curto café :P
+Nov 29 22:24:53 <fernandogrd>	http://colab.interlegis.leg.br/ticket/2625
+Nov 29 22:24:56 <fernandogrd>	exato
+Nov 29 22:25:56 <_renatooliveira>	http://colab.interlegis.leg.br/query?status=!closed&component=Plone+Conference+2013
+Nov 29 22:26:57 <fernandogrd>	boa =)
+Nov 29 22:27:28 <fernandogrd>	a gente pode acompanhar isso
+Nov 29 22:27:34 <fernandogrd>	e já ir criando/fechando os nossos
+Nov 29 22:28:26 <fernandogrd>	tudo é relativo
+Nov 29 22:28:29 <fernandogrd>	se for ver
+Nov 29 22:28:43 <fernandogrd>	os caras estão a anos luz da gente, mas é coisa de se ajustar :P
+Nov 29 22:28:50 <fernandogrd>	mesmo ponto pode se aplicar a python nordeste
+Nov 29 22:29:01 <fernandogrd>	tendo isso
+Nov 29 22:29:10 <fernandogrd>	acho que a data limite pra uma pythonnordeste seria abril
+Nov 29 22:29:25 <fernandogrd>	com a pythonbrasil[10] em paralelo, nada de deixar pra depois
+Nov 29 22:32:15 <fernandogrd>	q acham de abril?
+Nov 29 22:32:43 <amaral>	depois do dia 8 pra mim pode ser
+Nov 29 22:32:52 <filipeximenes>	eu gosto de abril
+Nov 29 22:33:03 <_renatooliveira>	uma boa
+Nov 29 22:33:11 <fernandogrd>	pq dps do dia 8 amaral ?
+Nov 29 22:33:27 <fernandogrd>	só por curiosidade  :P
+Nov 29 22:33:27 <amaral>	vou estar viajando
+Nov 29 22:33:33 <fernandogrd>	hum
+Nov 29 22:33:36 <fernandogrd>	saquei
+Nov 29 22:33:54 <amaral>	quer dizer, isso não impede nada
+Nov 29 22:34:00 <filipeximenes>	meados de abril it is
+Nov 29 22:34:16 <amaral>	só vou perder o evento, hehehe
+Nov 29 22:34:37 <_renatooliveira>	ehuaeuhea
+Nov 29 22:34:37 <amaral>	por mim tá massa, filipeximenes 
+Nov 29 22:34:40 <_renatooliveira>	mané perder o evento
+Nov 29 22:34:53 <fernandogrd>	ok
+Nov 29 22:35:03 <fernandogrd>	deixemos então abril como data preliminar
+Nov 29 22:35:06 <_renatooliveira>	então vamos marcar uma data?
+Nov 29 22:35:10 <fernandogrd>	pensando na organização da pytonbrasil[10]
+Nov 29 22:35:12 <fernandogrd>	ok
+Nov 29 22:35:13 <_renatooliveira>	pra deixar a pressão?
+Nov 29 22:35:16 <amaral>	sim, sim
+Nov 29 22:35:16 <fernandogrd>	boa
+Nov 29 22:35:19 <fernandogrd>	preliminar
+Nov 29 22:35:20 <_renatooliveira>	pera
+Nov 29 22:35:22 <fernandogrd>	mas boa
+Nov 29 22:35:24 <fernandogrd>	auhauhahu
+Nov 29 22:35:24 <_renatooliveira>	sexta e sábado?
+Nov 29 22:35:27 <fernandogrd>	feriados?
+Nov 29 22:35:28 <_renatooliveira>	ou sábado e domingo?
+Nov 29 22:35:32 <_renatooliveira>	feriado tem dia 22
+Nov 29 22:35:43 <fernandogrd>	é bom ou extremamente ruim ser em feriado? :P
+Nov 29 22:35:54 <_renatooliveira>	feriado é na segunda
+Nov 29 22:35:56 <_renatooliveira>	o dia 22
+Nov 29 22:35:56 <amaral>	é uma faca de dois gumes
+Nov 29 22:36:01 <_renatooliveira>	então vamo deixar
+Nov 29 22:36:02 <filipeximenes>	eu prefiro num final de semana convencinal
+Nov 29 22:36:06 <_renatooliveira>	uma sexta e sábado random
+Nov 29 22:36:08 <amaral>	eu também
+Nov 29 22:36:12 <_renatooliveira>	ou sábado e domingo?
+Nov 29 22:36:27 <filipeximenes>	sabado e domingo po mim
+Nov 29 22:36:34 <amaral>	sábado e domingo seria ótimo
+Nov 29 22:36:34 <fernandogrd>	tem que ver
+Nov 29 22:36:37 <fernandogrd>	o pessoal q viaja
+Nov 29 22:36:45 <_renatooliveira>	isso é o de menos
+Nov 29 22:36:46 <fernandogrd>	ex
+Nov 29 22:36:48 <_renatooliveira>	o evento vai ser legal
+Nov 29 22:36:51 <fernandogrd>	skkkkk
+Nov 29 22:36:54 <_renatooliveira>	a galera que pretende viajar
+Nov 29 22:36:58 <_renatooliveira>	a gente nem pensa
+Nov 29 22:37:00 <amaral>	só tem que ver possiveis implicacoes de organização (local e serviços no domingo)
+Nov 29 22:37:09 <fernandogrd>	pois é
+Nov 29 22:37:13 <_renatooliveira>	isso
+Nov 29 22:37:22 <filipeximenes>	verdade
+Nov 29 22:37:22 <fernandogrd>	faz assim
+Nov 29 22:37:28 <fernandogrd>	tp
+Nov 29 22:37:29 *	rodrigoclira (~rodrigocl@177.17.99.138) entrou em #pug-pe
+Nov 29 22:37:29 *	rodrigoclira saiu (Client Quit)
+Nov 29 22:37:31 <fernandogrd>	pq a pythonbrasil por ex
+Nov 29 22:37:38 <fernandogrd>	foi sexta e sabado?
+Nov 29 22:37:44 <amaral>	pois é
+Nov 29 22:38:02 <amaral>	o domingo ainda fica livre pra turismo
+Nov 29 22:38:06 <fernandogrd>	verdade
+Nov 29 22:38:13 <filipeximenes>	boa
+Nov 29 22:38:26 <_renatooliveira>	é
+Nov 29 22:38:30 <_renatooliveira>	recife tem esse apelo :D
+Nov 29 22:38:36 <fernandogrd>	pronto
+Nov 29 22:38:38 <fernandogrd>	sexta e sabado
+Nov 29 22:38:39 <amaral>	totalmente
+Nov 29 22:38:40 <fernandogrd>	que dais?
+Nov 29 22:38:43 <fernandogrd>	dias*
+Nov 29 22:39:32 <fernandogrd>	mas sim
+Nov 29 22:39:34 <fernandogrd>	pra não deixar passar
+Nov 29 22:39:38 <filipeximenes>	temos: 12-13, 19-20, 26-27
+Nov 29 22:39:38 <fernandogrd>	pq não em março? :P
+Nov 29 22:39:46 <amaral>	[(12, 13), (19, 20), (26, 27)]
+Nov 29 22:39:47 <_renatooliveira>	19-20
+Nov 29 22:40:15 <filipeximenes>	pra dar um tempinho a mais
+Nov 29 22:40:28 <_renatooliveira>	é
+Nov 29 22:40:31 <fernandogrd>	ok
+Nov 29 22:40:36 <_renatooliveira>	fernando jaja quer que a gente faça pra esse fds
+Nov 29 22:40:37 <fernandogrd>	19-20, fechou?
+Nov 29 22:40:37 <_renatooliveira>	EAHUUHEAUHEAHUEA
+Nov 29 22:40:38 <amaral>	19-20
+Nov 29 22:40:45 <amaral>	hahahahaha!
+Nov 29 22:40:50 <filipeximenes>	hueheuehueheu
+Nov 29 22:40:56 <fernandogrd>	bora fazer logo nesse final de dezembro:P
+Nov 29 22:41:04 <amaral>	dia 31/12
+Nov 29 22:41:10 <filipeximenes>	hauhauhauahuahau
+Nov 29 22:41:12 <fernandogrd>	boa!
+Nov 29 22:41:13 <fernandogrd>	:P
+Nov 29 22:41:30 <_renatooliveira>	então fechamos, 19-20
+Nov 29 22:41:34 <_renatooliveira>	algum ateiro ai?
+Nov 29 22:41:36 <fernandogrd>	ok
+Nov 29 22:41:43 <fernandogrd>	alguém ta anotando esses detalhes?:P
+Nov 29 22:41:49 <fernandogrd>	ateiro?
+Nov 29 22:41:56 <amaral>	Python Nordeste, Recife, 19 e 20 de abril de 2013
+Nov 29 22:42:08 <amaral>	sou eu
+Nov 29 22:42:25 <amaral>	*acho* que tou gravando o log aqui
+Nov 29 22:42:33 <fernandogrd>	eu to gravando aqui caso qlqr coisa
+Nov 29 22:42:35 <amaral>	e já tou editando o gist
+Nov 29 22:42:36 <fernandogrd>	blz
+Nov 29 22:42:41 <filipeximenes>	=)
+Nov 29 22:42:50 <_renatooliveira>	massa!
+Nov 29 22:42:52 <fernandogrd>	'Como contribuir remotamente com as tarefas da organização?'
+Nov 29 22:42:59 <fernandogrd>	esse é um ponto ótimo que rodrigo levantou
+Nov 29 22:43:00 <_renatooliveira>	seria legal criar um repositório no git
+Nov 29 22:43:04 <fernandogrd>	eu mesmo, em janeiro vou estar em sp
+Nov 29 22:43:09 <_renatooliveira>	como a galera da pybr8
+Nov 29 22:43:15 <filipeximenes>	primeiro temos ques saber quais são as tarefas
+Nov 29 22:43:32 <_renatooliveira>	contato (pode ser por e-mail mesmo) com patrocinadores
+Nov 29 22:43:37 <_renatooliveira>	desenvolver
+Nov 29 22:43:50 <fernandogrd>	até pegar patrocinador da própria cidade
+Nov 29 22:44:00 <fernandogrd>	mas é
+Nov 29 22:44:01 <_renatooliveira>	exato
+Nov 29 22:44:15 <fernandogrd>	acho que vamos ter noção melhor quando tivermos os issues criados
+Nov 29 22:44:16 <fernandogrd>	de qlqr forma
+Nov 29 22:44:29 <fernandogrd>	é bom focar nisso
+Nov 29 22:44:31 <fernandogrd>	ex
+Nov 29 22:44:37 <fernandogrd>	marcar os que podem ser feitos a distancia
+Nov 29 22:44:39 <fernandogrd>	talvez
+Nov 29 22:44:45 <filipeximenes>	que tipo de patrocinadores e interessante?
+Nov 29 22:44:59 <fernandogrd>	oq conseguirmos ta valendo :P
+Nov 29 22:45:00 <_renatooliveira>	pessoas que já trabalham com python
+Nov 29 22:45:05 <_renatooliveira>	e os que tem interesse
+Nov 29 22:45:17 <_renatooliveira>	pera
+Nov 29 22:45:23 <_renatooliveira>	deixa eu mandar um e-mail pra vcs
+Nov 29 22:45:24 <fernandogrd>	pra pythonbrasil
+Nov 29 22:45:45 <fernandogrd>	conversamos de falar com o pessoal grandes aqui: porto digital, cesar, serpro
+Nov 29 22:45:47 <fernandogrd>	agora
+Nov 29 22:45:47 <amaral>	eu posso ver com o Serpro se eles tem alguma disponibilidade de recursos pra ajudar com alguma patrocinio
+Nov 29 22:45:52 <fernandogrd>	teria que ver se eles tem interesse
+Nov 29 22:46:07 <amaral>	não é garantido, mas posso conseguir algum canal pra conversarmos
+Nov 29 22:46:11 <fernandogrd>	e se eles ajudando no puthonnordeste não vai fechar portas pra pythonbrasil
+Nov 29 22:46:33 <_renatooliveira>	mandei
+Nov 29 22:46:38 <fernandogrd>	bom saber rodrigo =)
+Nov 29 22:47:33 <fernandogrd>	vi aqui
+Nov 29 22:47:35 <fernandogrd>	quantidade de pessoas
+Nov 29 22:47:37 <fernandogrd>	bem complicado
+Nov 29 22:47:47 <fernandogrd>	saber
+Nov 29 22:47:49 <fernandogrd>	estimar
+Nov 29 22:48:00 <amaral>	divide and conquer
+Nov 29 22:48:12 <amaral>	PE leva quantas? SE leva quantas?
+Nov 29 22:48:24 <_renatooliveira>	é
+Nov 29 22:48:25 <fernandogrd>	o pugpe tem media de 20 pessoas
+Nov 29 22:48:28 <_renatooliveira>	tenso isso
+Nov 29 22:48:30 <fernandogrd>	por encontro
+Nov 29 22:48:32 <filipeximenes>	vamo botar um landing page no ar!
+Nov 29 22:48:35 <fernandogrd>	com maior divulgação
+Nov 29 22:48:38 <filipeximenes>	startup style!
+Nov 29 22:48:42 <amaral>	boa, filipeximenes !
+Nov 29 22:48:57 <_renatooliveira>	eauhaehuaehuuaehhuaeea
+Nov 29 22:49:00 <_renatooliveira>	massa1
+Nov 29 22:49:01 <_renatooliveira>	!
+Nov 29 22:49:06 <_renatooliveira>	agora a gente precisa de designer
+Nov 29 22:49:06 <fernandogrd>	eu só me lembro da land do xx
+Nov 29 22:49:08 <fernandogrd>	mas blz
+Nov 29 22:49:17 <fernandogrd>	bora fazer sim
+Nov 29 22:49:25 <fernandogrd>	vamos por partes
+Nov 29 22:49:28 <fernandogrd>	seguindo a pauta do rodrigo
+Nov 29 22:49:29 <_renatooliveira>	ximenes
+Nov 29 22:49:29 <_renatooliveira>	farias pode ajudar a gente?
+Nov 29 22:49:32 <filipeximenes>	como foi a do xx?
+Nov 29 22:49:40 <filipeximenes>	experiencia positiva ou negativa?
+Nov 29 22:49:44 <_renatooliveira>	negativa
+Nov 29 22:49:46 <fernandogrd>	foi uma comprada, q nunca foi pro ar =)
+Nov 29 22:49:57 <filipeximenes>	hehehehe
+Nov 29 22:50:03 <fernandogrd>	seguinte
+Nov 29 22:50:03 <filipeximenes>	posso falar com ele
+Nov 29 22:50:11 <amaral>	o que aconteceu? se pudesse voltar no tempo, o que faria diferente pra evitar?
+Nov 29 22:50:17 <filipeximenes>	boa
+Nov 29 22:50:21 <fernandogrd>	cara
+Nov 29 22:50:23 <_renatooliveira>	ah
+Nov 29 22:50:26 <_renatooliveira>	um domínio
+Nov 29 22:50:27 <fernandogrd>	o lance é que na organização do xx
+Nov 29 22:50:31 <fernandogrd>	tinha 20 pessoas
+Nov 29 22:50:33 <fernandogrd>	na lista
+Nov 29 22:50:41 <fernandogrd>	mas só 3 fizeram algo do evento
+Nov 29 22:50:44 <fernandogrd>	=)
+Nov 29 22:51:00 <amaral>	cara, isso é o normal
+Nov 29 22:51:05 <fernandogrd>	cara
+Nov 29 22:51:09 <fernandogrd>	lista de organização do evento
+Nov 29 22:51:11 <amaral>	Lei de Pareto
+Nov 29 22:51:22 <fernandogrd>	fora isso
+Nov 29 22:51:23 <amaral>	tem que descontar essas coisas mesmo
+Nov 29 22:51:31 <fernandogrd>	o evento foi sendo muito adiado
+Nov 29 22:51:42 <fernandogrd>	as atividades e prioridaes variavam
+Nov 29 22:51:47 <fernandogrd>	foi bem complicado
+Nov 29 22:51:49 <_renatooliveira>	foi ai que eu e fernando começamos a organizar os encontros
+Nov 29 22:52:14 <_renatooliveira>	pegamos tbm a palestra inicial
+Nov 29 22:52:21 <fernandogrd>	pois é
+Nov 29 22:52:32 <amaral>	ou seja, acabou gerando uma coisa boa :)
+Nov 29 22:52:36 <fernandogrd>	mas a palestra inicial foi mais por conta da palestra da pythonbrasil (q não teve)
+Nov 29 22:52:38 <amaral>	bola pra frente
+Nov 29 22:52:44 <fernandogrd>	exato
+Nov 29 22:52:50 <fernandogrd>	bom
+Nov 29 22:53:09 <fernandogrd>	já que saimos um pouco da pauta
+Nov 29 22:53:14 <fernandogrd>	algumas considerações
+Nov 29 22:53:26 <fernandogrd>	que acho interessante seguir:
+Nov 29 22:53:32 <fernandogrd>	- Mais ação, menos reunião
+Nov 29 22:53:46 <filipeximenes>	isso!
+Nov 29 22:53:55 <fernandogrd>	- Comprometimento válido (ex: saber exatamente quem vai realmente colaborar)
+Nov 29 22:54:15 <fernandogrd>	acho q são dois pilares legais :P
+Nov 29 22:54:17 <fernandogrd>	mais algum?
+Nov 29 22:54:20 <fernandogrd>	^^
+Nov 29 22:55:21 <_renatooliveira>	trabalhar com prazos
+Nov 29 22:55:28 <fernandogrd>	boa =)
+Nov 29 22:55:31 <amaral>	isso, _renatooliveira 
+Nov 29 22:55:42 *	fabiocerqueira (~fabiocerq@201-9-216-223.user.veloxzone.com.br) entrou em #pug-pe
+Nov 29 22:55:49 <fernandogrd>	ok, alguém anota isso :P
+Nov 29 22:55:53 <amaral>	deadlines movem a humanidade para a frente :P
+Nov 29 22:55:55 <fernandogrd>	fala fabiocerqueira, blz?
+Nov 29 22:55:55 <fabiocerqueira>	Pessoal, tive um problema e só consegui chegar agora
+Nov 29 22:56:04 <_renatooliveira>	oai
+Nov 29 22:56:05 <fernandogrd>	blz
+Nov 29 22:56:08 <_renatooliveira>	ceará
+Nov 29 22:56:10 <fernandogrd>	seguinte
+Nov 29 22:56:28 <fernandogrd>	fortaleza sedia a pythonnordeste? :P. Ou acha melhor recife mesmo?
+Nov 29 22:56:47 *	marcel__ (b1621308@gateway/web/freenode/ip.177.98.19.8) entrou em #pug-pe
+Nov 29 22:56:51 <marcel__>	e ae
+Nov 29 22:56:53 <fabiocerqueira>	Recife fica melhor, Python tá bem mais forte por ai do que aqui
+Nov 29 22:57:00 <fernandogrd>	pois é
+Nov 29 22:57:04 <_renatooliveira>	eae
+Nov 29 22:57:06 <fernandogrd>	o lance é
+Nov 29 22:57:10 <fabiocerqueira>	marcel__: opa!
+Nov 29 22:57:11 <marcel__>	foi o mal o atraso
+Nov 29 22:57:17 <fernandogrd>	já se fala em fazer a pythonbrasil em Recife
+Nov 29 22:57:20 <fernandogrd>	com isso
+Nov 29 22:57:22 <marcel__>	vida de empresario é foda
+Nov 29 22:57:31 <fernandogrd>	seria (justo|interesste) a pythonnordeste em outro estado
+Nov 29 22:57:59 <marcel__>	vo fazer concurso publico
+Nov 29 22:58:05 <_renatooliveira>	aehuaehueahuaehueahueauhea
+Nov 29 22:58:12 <fabiocerqueira>	hehe
+Nov 29 22:58:15 <marcel__>	o q foi decidido?
+Nov 29 22:58:15 <fernandogrd>	auahauha
+Nov 29 22:58:25 <fernandogrd>	data
+Nov 29 22:58:26 <_renatooliveira>	recife
+Nov 29 22:58:26 <fabiocerqueira>	se nada der certo até os 30 eu faço ao menos 1
+Nov 29 22:58:30 <_renatooliveira>	19 e 20
+Nov 29 22:58:44 <fabiocerqueira>	19 e 20 de q?
+Nov 29 22:58:45 <fernandogrd>	de abril
+Nov 29 22:58:47 <amaral>	bom, como eu já vou chegando nos 34... :P
+Nov 29 22:59:09 <marcel__>	em sergipe?
+Nov 29 22:59:12 <marcel__>	rem recife?
+Nov 29 22:59:18 <marcel__>	ou em fortaleza?
+Nov 29 22:59:21 <_renatooliveira>	abril
+Nov 29 22:59:22 <_renatooliveira>	isso
+Nov 29 22:59:25 <fernandogrd>	as opções são recife ou fortaleza
+Nov 29 22:59:31 <fernandogrd>	como Fábio entrou agora
+Nov 29 22:59:38 <fernandogrd>	perguntei pra ele da possibilidade de fortaleza
+Nov 29 23:00:07 <amaral>	estou atualizando o https://gist.github.com/4169501
+Nov 29 23:01:00 <fabiocerqueira>	quem é de Recife aqui no canal?
+Nov 29 23:01:05 <_renatooliveira>	o/
+Nov 29 23:01:17 <fernandogrd>	todos, menos você e rodrigo amaral
+Nov 29 23:01:21 <fernandogrd>	rodrigo é de sergipe
+Nov 29 23:01:26 <filipeximenes>	o/
+Nov 29 23:01:26 <fernandogrd>	ou seja
+Nov 29 23:01:40 <fernandogrd>	eu, filipeximenes, marcel__ e _renatooliveira somos/estamos em recife
+Nov 29 23:01:55 <fabiocerqueira>	Recife é onde tem mais envolvidos de verdade com pug
+Nov 29 23:02:00 <amaral>	ou seja, seria ótimo que fosse em outra cidade, pra espalhar a palavra, mas...
+Nov 29 23:02:07 <amaral>	exato
+Nov 29 23:02:47 <marcel__>	é o primeiro correto
+Nov 29 23:02:48 <amaral>	e Daker é o bot do canal :)
+Nov 29 23:02:52 <marcel__>	pela experiencia
+Nov 29 23:02:52 <fernandogrd>	auuahauhauh
+Nov 29 23:02:54 <_renatooliveira>	EAHUEAHUEAHUEAUH
+Nov 29 23:02:57 <marcel__>	nada contra ao pug-se
+Nov 29 23:03:08 <filipeximenes>	hueheuheuehue
+Nov 29 23:03:14 <fernandogrd>	ok então
+Nov 29 23:03:17 <marcel__>	vejo q o melhor mesmo seria entre o pug-ce e o pug-pe
+Nov 29 23:03:53 <marcel__>	vamos fà audiencia
+Nov 29 23:04:00 <fabiocerqueira>	Aqui em Fortaleza já tivemos bons eventos com o AgileBrazil e o BrazilJS nos últimos anos
+Nov 29 23:04:09 <marcel__>	fabio como anda o python por ai e o mercado de tecnologia?
+Nov 29 23:04:14 <marcel__>	movimenta muito ai ?
+Nov 29 23:04:19 <fabiocerqueira>	agora queria ver se eu teria equipe aqui para tocar as pendências presenciais
+Nov 29 23:04:39 <fabiocerqueira>	o mercado para Python é bem parado
+Nov 29 23:04:52 <fabiocerqueira>	algumas empresas usando, mas quase nunca aparecem vagas
+Nov 29 23:04:57 <marcel__>	pq vejo q poderiamos ter o pythonordeste em fortaleza e a pythonbrasil no recife, questao é q fabio nao pode coordenar tudo so dai
+Nov 29 23:05:01 <fernandogrd>	eu to criando uma vaga aí em fortaleza :P
+Nov 29 23:05:15 <fabiocerqueira>	haha eu vi, Luiz me marcou, ele tá com 2 lá
+Nov 29 23:05:16 <marcel__>	exaro
+Nov 29 23:05:36 <fabiocerqueira>	marcel__: essa é a questão
+Nov 29 23:05:47 <marcel__>	sua equipe atual
+Nov 29 23:05:50 <marcel__>	italo e cia
+Nov 29 23:05:57 <marcel__>	nao topariam ajudar?
+Nov 29 23:06:04 <fabiocerqueira>	se eu conseguisse envolver mais alguém. O Italo, Mário, Vitor, Tiago até seria possível
+Nov 29 23:06:14 <fabiocerqueira>	preciso conversar com eles para sentir se eles topam de verdade
+Nov 29 23:06:33 <fernandogrd>	saquei
+Nov 29 23:06:36 <fabiocerqueira>	o Italo acabou de terminar o mestrado, acho que agora tá com mais tempo livre
+Nov 29 23:06:44 <fernandogrd>	qr ver com eles?
+Nov 29 23:06:57 <fernandogrd>	oq pudemos ajudar daqui, com certeza vamos também
+Nov 29 23:07:53 <fabiocerqueira>	entendo, acabei de mandar um email para eles aqui
+Nov 29 23:08:14 <fernandogrd>	pronto
+Nov 29 23:08:17 <amaral>	galera, não podemos esquecer a questão do público
+Nov 29 23:08:25 <fernandogrd>	amaral: deixa no gist: fortaleza ou recife
+Nov 29 23:08:32 <amaral>	um evento é feito pelo público
+Nov 29 23:08:55 <amaral>	a  maior probabilidade é que vão pessoas da mesma cidade onde ocorre o evento
+Nov 29 23:09:02 <fabiocerqueira>	isso é verdade, em relação ao público, se tiver uma boa divulgação com os nomes certos aqui em Fortaleza o pessoal vai
+Nov 29 23:09:13 <fabiocerqueira>	o evento do BrazilJS lotou aqui
+Nov 29 23:09:17 <fernandogrd>	qntos foram no ultimo encontro do pug-ce fábio?
+Nov 29 23:09:31 <amaral>	fabiocerqueira, vc tem algum chute de quantos interessados tem potencial de comparecer em Fortaleza?
+Nov 29 23:09:33 <fabiocerqueira>	uns 35
+Nov 29 23:09:43 <fabiocerqueira>	foram no último evento fernandogrd
+Nov 29 23:09:49 <fabiocerqueira>	em relação a interessados
+Nov 29 23:10:11 <fabiocerqueira>	tomando como base o BrazilJS o público lotou um auditório com mais de 200 lugares
+Nov 29 23:10:14 <amaral>	massa
+Nov 29 23:10:28 <fernandogrd>	a cidade é grande, + o pessoal de fora e tal
+Nov 29 23:10:36 <fernandogrd>	e mesmo que não seja muita gente
+Nov 29 23:10:40 <fernandogrd>	tendo gente de estados diferentes
+Nov 29 23:10:53 <fernandogrd>	vamos ter, digamos que, cumprido a missão =)
+Nov 29 23:11:11 <fabiocerqueira>	e aqui tem muita gente que frequenta eventos de um monte de linguagens, quando tem gente de fora ai que aparecem mesmo
+Nov 29 23:11:19 <fernandogrd>	masas
+Nov 29 23:11:20 <fernandogrd>	massa*
+Nov 29 23:11:20 <amaral>	blz
+Nov 29 23:11:37 <fabiocerqueira>	acho que quanto ao público aqui n será um problema
+Nov 29 23:11:41 <fernandogrd>	façamos assim então, veja o nível de comprometimento do pessoal daí pra organizar
+Nov 29 23:11:47 <fernandogrd>	se você sentir confiança
+Nov 29 23:11:54 <fernandogrd>	eu voto em fortaleza =)
+Nov 29 23:12:05 <marcel__>	eu acho
+Nov 29 23:12:10 <marcel__>	q chegamos em um local
+Nov 29 23:12:15 <marcel__>	tb voto em fortaleza
+Nov 29 23:12:25 <fernandogrd>	lembrando que, todos irão ajudar =)
+Nov 29 23:12:46 <fabiocerqueira>	eu sei, assim que tiver o retorno deles aviso
+Nov 29 23:13:13 <fernandogrd>	pronto
+Nov 29 23:13:36 <_renatooliveira>	fortaleza
+Nov 29 23:13:37 <fernandogrd>	sugiro então deixarmos lá em aberto, recife ou fortaleza, fabiocerqueira confirmando, deixamos fortaleza
+Nov 29 23:13:39 <_renatooliveira>	o/
+Nov 29 23:14:56 <fabiocerqueira>	próximas pautas
+Nov 29 23:15:13 <fabiocerqueira>	Como contribuir remotamente com as tarefas da organização? Quais tarefas podem ser feitas por quem está fora da cidade-sede?
+Nov 29 23:15:14 <amaral>	deadline?
+Nov 29 23:15:31 <fernandogrd>	quanto a contribuição de longe
+Nov 29 23:15:31 <fabiocerqueira>	Cara, para esse retorno da equipe vou esperar a resposta até amanhã
+Nov 29 23:15:37 <fernandogrd>	tem o desenvolvimento
+Nov 29 23:15:42 <fernandogrd>	patrocionios
+Nov 29 23:15:43 <_renatooliveira>	deadline
+Nov 29 23:15:43 <fabiocerqueira>	se n responderem até amanhã é pq n rola hehe
+Nov 29 23:15:52 <_renatooliveira>	fabiocerqueira, tu acha que consegue essa info pra quando?
+Nov 29 23:15:56 <fabiocerqueira>	amanhã
+Nov 29 23:16:00 <_renatooliveira>	massa!
+Nov 29 23:16:09 <fernandogrd>	mas vamos saber mesmo quanto as atividades a distania
+Nov 29 23:16:12 <fernandogrd>	distancia
+Nov 29 23:16:16 <fernandogrd>	quanto estivermos com os issues definidos
+Nov 29 23:16:16 <fabiocerqueira>	como eu disse, se n responderem amanhã é pq fica complicado
+Nov 29 23:16:29 <marcel__>	arrumar lcoal e data
+Nov 29 23:16:39 <marcel__>	onde seria
+Nov 29 23:16:43 <marcel__>	por ai
+Nov 29 23:16:51 <marcel__>	tem altum apoio da ufce?
+Nov 29 23:16:58 <marcel__>	ou unifor?
+Nov 29 23:17:11 <fabiocerqueira>	seria possível nessas ou na FA7 que recebe muitos eventos
+Nov 29 23:17:37 <_renatooliveira>	acho que faculdade privada  pode ser melhor
+Nov 29 23:17:45 <fabiocerqueira>	a estrutura deles é muito boa
+Nov 29 23:18:09 <fabiocerqueira>	e acho que como eles tem interesse em divulgar o nome da faculdade isso pode ser bom
+Nov 29 23:18:17 <fabiocerqueira>	já fizemos alguns encontros no PUG-CE lá
+Nov 29 23:18:27 <fabiocerqueira>	conheço o coordenador do curso de computação
+Nov 29 23:18:28 <fernandogrd>	massa
+Nov 29 23:18:33 <amaral>	show de bola
+Nov 29 23:18:42 <fabiocerqueira>	e tbm conheço o cara que organizou o BrazilJS que foi lá
+Nov 29 23:18:54 <_renatooliveira>	massa
+Nov 29 23:18:59 <fernandogrd>	sugiro partimos pro item 5 da pauta
+Nov 29 23:19:02 <fabiocerqueira>	Já recebi uma email posito do Vitor sobre ser aqui
+Nov 29 23:19:03 <fernandogrd>	ferramenta
+Nov 29 23:19:22 <fabiocerqueira>	"Vitor Carvalho: Por mim topo sim!"
+Nov 29 23:19:24 <fernandogrd>	eu voto no github, por conta dos milestones
+Nov 29 23:19:28 <fabiocerqueira>	tbm voto no github
+Nov 29 23:19:40 <amaral>	eu sugeri o item de pauta, mas por mim tanto faz
+Nov 29 23:20:04 <amaral>	não tem muita diferença, foi só pra lembrar que precisamos controlar as issues
+Nov 29 23:20:16 <fernandogrd>	mas é
+Nov 29 23:20:20 <fernandogrd>	mas é importante
+Nov 29 23:20:31 <fernandogrd>	até pra já irmos criando as tarefas =)
+Nov 29 23:20:40 <amaral>	github tem prazo por tarefa?
+Nov 29 23:21:05 <fernandogrd>	amaral, não, mas dá pra criar milestones
+Nov 29 23:21:16 <fernandogrd>	que é basicamente prazo pra um conjunto de tarefas
+Nov 29 23:21:24 <fernandogrd>	senti muito a falta disso no trello
+Nov 29 23:21:33 <amaral>	trello é outro conceito
+Nov 29 23:21:38 <amaral>	cada milestone vira um board
+Nov 29 23:21:44 <fernandogrd>	hum
+Nov 29 23:21:51 <fernandogrd>	humm
+Nov 29 23:21:54 <fernandogrd>	saquei
+Nov 29 23:21:56 <fernandogrd>	pois é
+Nov 29 23:22:00 <fernandogrd>	pensando assim ^^
+Nov 29 23:22:02 <amaral>	um cartão pode sair de um pro outro
+Nov 29 23:22:05 <filipeximenes>	trello é mais fechado
+Nov 29 23:22:15 <filipeximenes>	fica menos transparente
+Nov 29 23:22:57 <amaral>	alguém mais experiente no github pode criar o repo?
+Nov 29 23:23:11 <_renatooliveira>	criar a organização
+Nov 29 23:23:15 <_renatooliveira>	e dps o repo
+Nov 29 23:23:17 <amaral>	isso, _renatooliveira 
+Nov 29 23:23:43 <_renatooliveira>	posso
+Nov 29 23:23:49 <fernandogrd>	=D
+Nov 29 23:23:53 <amaral>	fechado, proximo
+Nov 29 23:24:40 <fernandogrd>	documento
+Nov 29 23:24:52 <fernandogrd>	o documento é importante por conta do patrocínio tbm
+Nov 29 23:25:10 <fernandogrd>	temos o do xx, e do plone
+Nov 29 23:25:13 <fernandogrd>	conference
+Nov 29 23:25:20 <amaral>	isso é uma coisa que vai acabar ficando pros organizadores locais
+Nov 29 23:25:28 <amaral>	que conhecem a cidade e tal
+Nov 29 23:25:38 <fernandogrd>	acho q não necessariamente rodrigo
+Nov 29 23:25:39 <amaral>	pelo menos uma boa parte do documento, na verdade
+Nov 29 23:25:42 <fernandogrd>	definido o local
+Nov 29 23:25:45 <fernandogrd>	pois é
+Nov 29 23:25:50 <fernandogrd>	teria q pegar um e modificar
+Nov 29 23:27:08 <fernandogrd>	bom
+Nov 29 23:27:12 <fernandogrd>	já é um issue
+Nov 29 23:27:26 <fernandogrd>	acho que podemos definir o qual usar
+Nov 29 23:27:26 <amaral>	isso
+Nov 29 23:27:30 <fernandogrd>	depois
+Nov 29 23:27:35 <_renatooliveira>	fernandogrd, cria os milestones por favor
+Nov 29 23:27:38 <amaral>	na verdade isso já vai pros issues
+Nov 29 23:27:38 <fernandogrd>	duas ou mais pessoas ajudariam
+Nov 29 23:27:39 <_renatooliveira>	tu que conhece bem isso
+Nov 29 23:27:41 <fabiocerqueira>	O documento pode ser dividido em partes, mas acho que é o primeiro passo
+Nov 29 23:27:47 <_renatooliveira>	a organização e o repo tá criado
+Nov 29 23:27:48 <_renatooliveira>	:)
+Nov 29 23:27:50 <amaral>	boa, fabiocerqueira 
+Nov 29 23:27:51 <_renatooliveira>	convidei vcs todos
+Nov 29 23:27:53 <fernandogrd>	marcel__ fez o do xx
+Nov 29 23:28:01 <fernandogrd>	acho q ele pode ajudar nessa parte
+Nov 29 23:28:26 <marcel__>	eu tenho
+Nov 29 23:28:28 <marcel__>	um documento
+Nov 29 23:28:30 <marcel__>	do xx q posso
+Nov 29 23:28:35 <marcel__>	compartilhar contigo
+Nov 29 23:28:47 <marcel__>	fabio
+Nov 29 23:28:47 <marcel__>	pode ser/
+Nov 29 23:28:47 <marcel__>	?
+Nov 29 23:28:47 <marcel__>	?
+Nov 29 23:28:52 <fernandogrd>	compartilha com todos marcel
+Nov 29 23:28:58 <fernandogrd>	aí vemos oq tem que ser modificado
+Nov 29 23:29:11 <fabiocerqueira>	marcel__: coloca lá no github
+Nov 29 23:29:13 <fernandogrd>	oq pudermos tirar das costas do fabio é bom também
+Nov 29 23:29:28 <fernandogrd>	visto que eles vão ter as tarefas locais exclusivamente
+Nov 29 23:29:36 <fernandogrd>	6.
+Nov 29 23:29:41 <fernandogrd>	nível de comprometimento
+Nov 29 23:30:18 <fernandogrd>	acho q todos aqui estamos bastante engajados, certo? =)
+Nov 29 23:30:25 <fabiocerqueira>	sim
+Nov 29 23:30:29 <fernandogrd>	alguém aí tá fundando outra startup? :P
+Nov 29 23:30:29 <amaral>	acho que quem tá aqui tá no barco, né?
+Nov 29 23:30:31 <fernandogrd>	auhahuauhahuauh
+Nov 29 23:30:45 <fabiocerqueira>	todos temos ocupações, quanto tempo na semanal vcs acham que podem dedicar +/-?
+Nov 29 23:31:03 <fernandogrd>	dezembro e janeiro são os meses pra mim
+Nov 29 23:31:17 <fernandogrd>	depois disso eu provavelmente vou ter q correr atrás de trabalho :P
+Nov 29 23:31:22 <fernandogrd>	mas em geral
+Nov 29 23:31:22 <_renatooliveira>	acredito que posso dedicar de 5 a 10hrs
+Nov 29 23:31:26 <fernandogrd>	é o tempo q dedico pro pug
+Nov 29 23:31:49 <fernandogrd>	de 10 a 16 hrs, vai depender da semana
+Nov 29 23:32:32 <marcel__>	eu posso dedicar de 5 a 8 hrs
+Nov 29 23:32:48 <filipeximenes>	Também... 5 a 8 horas
+Nov 29 23:32:58 <amaral>	5 horas
+Nov 29 23:33:54 <fabiocerqueira>	eu tbm imagino que posso entre 5 a 10 hrs
+Nov 29 23:33:58 <fernandogrd>	massa
+Nov 29 23:34:10 <fernandogrd>	eu sei que filipe de maceió
+Nov 29 23:34:17 <_renatooliveira>	eita
+Nov 29 23:34:18 <_renatooliveira>	filipe
+Nov 29 23:34:19 <fernandogrd>	é bem capaz que esteja comprometido
+Nov 29 23:34:22 <_renatooliveira>	vai participar
+Nov 29 23:34:25 <_renatooliveira>	mas ele tá em sp
+Nov 29 23:34:28 <fernandogrd>	rael também
+Nov 29 23:34:29 <_renatooliveira>	recebendo treinamento
+Nov 29 23:34:32 <fernandogrd>	é bem capaz
+Nov 29 23:34:36 <fernandogrd>	mas falamos com eles depois
+Nov 29 23:34:51 <fernandogrd>	se for isso
+Nov 29 23:34:54 <fernandogrd>	temos um timo ótimo
+Nov 29 23:35:01 <fernandogrd>	veja com o pessoal aí de fortaleza fabio
+Nov 29 23:35:07 <fernandogrd>	quantas horas eles podem se dedica
+Nov 29 23:35:09 <fernandogrd>	dedicar
+Nov 29 23:35:17 <fernandogrd>	coisa pra fazer eu garanto q não vai falta
+Nov 29 23:35:20 <fernandogrd>	faltar
+Nov 29 23:35:25 <fernandogrd>	quanto a pythonbrasil[10]
+Nov 29 23:35:35 <fernandogrd>	sugiro já fazermos um repositório
+Nov 29 23:35:42 <fernandogrd>	e quase q criar os mesmos issues =)
+Nov 29 23:36:00 <_renatooliveira>	pythonBrasil[10]
+Nov 29 23:36:09 <_renatooliveira>	tem que ser na organização da pythonBrasil
+Nov 29 23:36:23 <fernandogrd>	não necessariamente..
+Nov 29 23:36:36 <fernandogrd>	acho que é a gente q define
+Nov 29 23:36:51 <fernandogrd>	e é bom sermos admin, por motivos óbvios
+Nov 29 23:37:08 <fabiocerqueira>	Calma, Fernando. O Python Nordeste é em Abril, teremos mais de 1 ano e meio para organizar a PythonBrasil[10]
+Nov 29 23:37:19 <fabiocerqueira>	Vamos focar no atual
+Nov 29 23:37:23 <fernandogrd>	cara
+Nov 29 23:37:28 <fernandogrd>	é que eu falei pra eles
+Nov 29 23:37:31 <fernandogrd>	minha preocupação
+Nov 29 23:37:36 <fernandogrd>	é a pythonnordeste
+Nov 29 23:37:39 <fernandogrd>	ao invés de ajudar
+Nov 29 23:37:44 <fernandogrd>	servir como experiência
+Nov 29 23:37:46 <fernandogrd>	atrapalhar
+Nov 29 23:37:50 <fabiocerqueira>	entendi
+Nov 29 23:38:00 <fernandogrd>	tanto que foi falado em fazer a pythonordeste mais tarde
+Nov 29 23:38:18 <fernandogrd>	eu joguei essa do pythonbrasil[10], pra fazer a nordeste mais cedo
+Nov 29 23:38:21 <fernandogrd>	pra vcs terem idéia
+Nov 29 23:38:26 <fernandogrd>	o pessoal de brasilia
+Nov 29 23:38:36 <fernandogrd>	já está se movimentando bastante pra 9
+Nov 29 23:38:57 <fernandogrd>	e olha que eles tem pessoas (érico já organizou uma pythonbrasil, tânia é super ativa tbm)
+Nov 29 23:38:59 <fernandogrd>	e grana
+Nov 29 23:39:07 <fernandogrd>	os caras tem apoio gigantescos
+Nov 29 23:39:18 <fernandogrd>	quanto antes começarmos, maior possibilidade de sucesso
+Nov 29 23:39:35 <fernandogrd>	sem querer atropelar as coisas =)
+Nov 29 23:39:55 <fabiocerqueira>	entendo a preocupação, mas vc acha que para Python Nordeste tá muito tempo?
+Nov 29 23:40:01 <marcel__>	acho interessante sim
+Nov 29 23:40:04 <marcel__>	ter o basico
+Nov 29 23:40:10 <marcel__>	pro python brasil
+Nov 29 23:40:18 <marcel__>	mas o foco agora é fazer um python nordeste
+Nov 29 23:40:20 <marcel__>	de sucesso
+Nov 29 23:40:34 <marcel__>	abril ta em cima ja
+Nov 29 23:40:43 <fernandogrd>	fabiocerqueira: depende, a xx, tinhamos 4 meses tbm, mas a forma que levamos a organização foi ruim, e uma delas é que o evento foi adiado
+Nov 29 23:40:48 <fernandogrd>	se for pra adiar
+Nov 29 23:40:54 <fernandogrd>	é melhor ter um prazo maior mesmo
+Nov 29 23:41:18 <marcel__>	falo
+Nov 29 23:41:19 <marcel__>	em cima
+Nov 29 23:41:21 <fernandogrd>	pq adiar é *evil*
+Nov 29 23:41:33 <marcel__>	se nao trabalharmos forte
+Nov 29 23:41:46 <marcel__>	a partir de julho
+Nov 29 23:41:52 <marcel__>	ja nao acho bom termos evento
+Nov 29 23:41:59 <marcel__>	por causa da copa das confederacoes
+Nov 29 23:42:05 <marcel__>	tem q ser ate junho
+Nov 29 23:42:07 <marcel__>	no maximo
+Nov 29 23:42:09 <fabiocerqueira>	sim, n é possível adiar um evento local imagina um em que tá em jogo viagens marcadas
+Nov 29 23:42:11 <amaral>	só um parênteses: fechamos os itens da pauta que precisam de encaminhamento ou não?
+Nov 29 23:42:25 <marcel__>	td vai ficar mais caro emm julho
+Nov 29 23:42:46 <amaral>	tem o FISL tb
+Nov 29 23:42:47 <marcel__>	sim
+Nov 29 23:43:01 <fernandogrd>	ok
+Nov 29 23:43:07 <_renatooliveira>	galera
+Nov 29 23:43:07 <fernandogrd>	reforço oq falei acima:
+Nov 29 23:43:08 <marcel__>	ok
+Nov 29 23:43:12 <_renatooliveira>	vou ter que ir aqui
+Nov 29 23:43:12 <fernandogrd>	- Mais ação, menos reunião
+Nov 29 23:43:21 <fernandogrd>	- Comprometimento
+Nov 29 23:43:23 <fernandogrd>	- Prazos
+Nov 29 23:43:32 <fernandogrd>	prazos foi _renatooliveira q falou ^^
+Nov 29 23:43:36 <_renatooliveira>	isso!
+Nov 29 23:43:38 <_renatooliveira>	prazos
+Nov 29 23:43:41 <_renatooliveira>	oa
+Nov 29 23:43:42 <_renatooliveira>	vou indo
+Nov 29 23:43:47 <_renatooliveira>	amanhã nos falamos!
+Nov 29 23:43:49 <fernandogrd>	mas podemos ter uma reunião, pro pessoal que não esteve presente
+Nov 29 23:43:55 <fernandogrd>	ok _renatooliveira, boa noite =)
+Nov 29 23:44:01 <_renatooliveira>	boa noite o/
+Nov 29 23:44:02 <amaral>	tb tá chegando a minha hora 
+Nov 29 23:44:07 <amaral>	idoso dorme cedo
+Nov 29 23:44:16 *	_renatooliveira saiu (Quit: Leaving)
+Nov 29 23:44:20 <fernandogrd>	adiantamos bastante coisa
+Nov 29 23:44:24 <fernandogrd>	quem lembrar de issues
+Nov 29 23:44:31 <amaral>	mais ação, menos reunião :P
+Nov 29 23:44:32 <fernandogrd>	já adicionar lá
+Nov 29 23:44:40 <fernandogrd>	aí vemos de criar os milestones
+Nov 29 23:44:48 <amaral>	agora é tacar issue no github até não poder mais
+Nov 29 23:45:03 <fernandogrd>	=P
+Nov 29 23:45:07 <filipeximenes>	massa!
+Nov 29 23:45:23 <fabiocerqueira>	Foi criado apenas o issue de redigir proposta então?
+Nov 29 23:45:39 <fernandogrd>	parece q sim
+Nov 29 23:45:43 <amaral>	foi o que era encaminhamento de pauta
+Nov 29 23:45:56 <fabiocerqueira>	blz
+Nov 29 23:45:58 <fabiocerqueira>	então ok
+Nov 29 23:46:00 <amaral>	mas acho que já podemos começar o issue frenzy
+Nov 29 23:46:41 <fernandogrd>	uma coisa massa
+Nov 29 23:46:48 <marcel__>	ja coloquei eu como liberar pra fabio
+Nov 29 23:46:51 <fernandogrd>	é ver os issues da pythonbrasil8 e 9
+Nov 29 23:46:52 <marcel__>	o modelo q fiz pro XX
+Nov 29 23:47:07 <marcel__>	e ai fabio vc pode se basear e trabalharmos ai no q for preciso
+Nov 29 23:47:08 <marcel__>	fechado ?
+Nov 29 23:47:41 <filipeximenes>	pessoal, vou saindo aqui também.
+Nov 29 23:47:49 <filipeximenes>	boa noite a todos!
+Nov 29 23:48:03 <fernandogrd>	boa noite =)
+Nov 29 23:48:20 <fabiocerqueira>	marcel__: ok, Marcel.
+Nov 29 23:48:28 *	filipeximenes saiu (Quit: Page closed)
+Nov 29 23:48:53 <marcel__>	coloquei no git
+Nov 29 23:48:54 <marcel__>	mas
+Nov 29 23:48:56 <marcel__>	segue aqui tb
+Nov 29 23:48:57 <marcel__>	https://docs.google.com/document/d/18Q0QJDNEWQSc4EqCMEBUVuzDo57JkcGN_n4kSU2RJ2s/edit
+Nov 29 23:51:29 <fabiocerqueira>	marcel__: blz
+Nov 29 23:53:23 <amaral>	pessoal, vou indo
+Nov 29 23:53:38 <amaral>	vamos manter os emails fluindo aí
+Nov 29 23:53:41 <amaral>	até mais
+Nov 29 23:53:51 <fabiocerqueira>	boa noite, amaral
+Nov 29 23:54:35 *	Saíste do canal #pug-pe ("Saindo")
+**** REGISTO TERMINADO EM Thu Nov 29 23:54:35 2012
+
