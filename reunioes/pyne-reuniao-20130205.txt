@@ -1,0 +1,58 @@
+Ata - II Reunião Python Nordeste
+
+1 - Revisão do ticket design
+	Mário Chaves assume a parte de design
+
+2 - Local do evento
+	Fa7 (Falta formalizar a disponibilidade)
+
+3 - Inscrição
+	Falta ver como será recebido os pagamentos (Paypal, PagSeguro)
+	Problema para receber o dinheiro. Qual conta receberá? Problema com impostos..
+	Fábio responsável por solucionar isso (ACENS)
+
+4 - Briefing do evento (Descrição, patrocínios, etc)
+	Responsáveis Felipe e Mário
+
+5 - Compra do domínio pythonnordeste.org
+	Fábio Cerqueira (14 dólares)
+
+6 - Agenda do evento
+	Sexta-feira 24
+	8:00 - 9:00 Credenciamento
+	9:00 - 9:30 Abertura
+	9:30 - 10:00 Palestra1
+	10:00 - 10:30 Coffe break
+	10:30 - 11:00 Palestra2
+	11:00 - 12:00 Keynote
+
+	12:00 - 13:00 Almoço
+
+	13:30 - 14:00 Palestra3
+	14:10 - 14:40 Palestra4
+	14:50 - 15:20 Palestra5
+	15:20 - 15:50 Coffe Break
+	15:50 - 16:20 Palestra6
+	16:30 - 17:00 Palestra7
+	17:00 - 18:00 Keynote
+
+	Sábado 25
+	8:00 - 8:30 Abertura
+	8:30 - 9:00 Palestra1
+	9:10 - 9:40 Palestra2
+	9:50 - 10:20 Coffe Break
+	10:20 - 10:50 Palestra3
+	11:00 - 12:00 Keynote
+
+	12:00 - 13:00 Almoço
+
+	13:30 - 14:00 Palestra4
+	14:10 - 14:40 Palestra5
+	14:50 - 15:20 Palestra6
+	15:20 - 15:50 Coffe Break
+	15:50 - 16:20 Palestra7
+	16:30 - 17:30 Keynote
+	17:30 - 18:30 Encerramento
+
+7 - Livros de brinde
+	Renato Oliveira
