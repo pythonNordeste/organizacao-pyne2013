@@ -19,4 +19,5 @@
    - Acesso a Wi-fi (internet) para o público
    - Temos salas ou laboratorios (Pel omenos 1) com retroprojetor
    - No pátio externo temos possibilidade de por mesas de coffebreak ou stands 
+1. Verificar se a Acens já tem conta no pagseguro
 1. Marcel falar com Renato e Mário sobre o layout
